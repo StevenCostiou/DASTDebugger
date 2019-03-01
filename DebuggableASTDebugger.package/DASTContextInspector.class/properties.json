@@ -1,0 +1,11 @@
+{
+	"commentStamp" : "",
+	"super" : "EyeDebuggerContextInspector",
+	"category" : "DebuggableASTDebugger",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [ ],
+	"name" : "DASTContextInspector",
+	"type" : "normal"
+}

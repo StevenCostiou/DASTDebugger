@@ -1,0 +1,11 @@
+{
+	"commentStamp" : "",
+	"super" : "SpecDebugger",
+	"category" : "DebuggableASTDebugger",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [ ],
+	"name" : "DASTSpecDebugger",
+	"type" : "normal"
+}
