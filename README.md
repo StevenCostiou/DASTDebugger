@@ -10,14 +10,14 @@ Metacello new
     load.
 ```
 
-Then load the debuggable AST Interpreter [here](https://github.com/carolahp/DebuggableASTInterpreter).
+Then load the debuggable AST Interpreter from [here](https://github.com/carolahp/DebuggableASTInterpreter).
 
 Finally, load the DebuggableASTDebugger package from the current repository.
 
 ## Test it
 
 ```Smalltalk
-(SpecDastDebugger on: (DastSession debug: 'MyObject new doStuff')) openWithFullView 
+(DASTSpecDebugger on: (DASTSession debug: 'MyObject new doStuff')) openWithFullView 
 ```
 
 ## Status
