@@ -1,4 +1,4 @@
 *DebuggableASTDebugger
 top
-	stack ifEmpty:[^#emptyStack].
-	^stack top
+	stack ifEmpty: [ ^ #emptyStack ].
+	^ stack top
