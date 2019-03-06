@@ -1,0 +1,3 @@
+tests
+testInitiallyOverlayIsEmpty
+	self assert: overlayHandler isEmpty

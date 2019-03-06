@@ -1,0 +1,14 @@
+{
+	"commentStamp" : "",
+	"super" : "GHSimpleForwarderProxyHandler",
+	"category" : "DebuggableASTDebugger",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"objectOverlay",
+		"overlayDictionary"
+	],
+	"name" : "OverlayHandler",
+	"type" : "normal"
+}
