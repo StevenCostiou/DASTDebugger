@@ -1,0 +1,3 @@
+*DebuggableASTDebugger
+messageNode
+	^messageNode

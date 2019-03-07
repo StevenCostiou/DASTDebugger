@@ -4,7 +4,8 @@ debuggingActionsForPragmas: aSymbolsCollection for: aDebugger
 		inject: OrderedCollection new
 		into: [ :currentActions :aSymbol | 
 			{StepOverDebugAction asDebugAction.
-			StepIntoDebugAction asDebugAction}
+			StepIntoDebugAction asDebugAction.
+			RestartDebugAction asDebugAction}
 				collect: [ :aDebugAction | 
 					aDebugAction
 						forDebugger: aDebugger;
