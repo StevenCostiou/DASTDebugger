@@ -1,0 +1,15 @@
+{
+	"commentStamp" : "",
+	"super" : "TestCase",
+	"category" : "DebuggableASTDebugger",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"point",
+		"overlayHandler",
+		"pointOverlay"
+	],
+	"name" : "OverlayByProxyTest",
+	"type" : "normal"
+}
