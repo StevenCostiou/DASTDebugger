@@ -1,11 +1,11 @@
 {
-	"commentStamp" : "",
-	"super" : "SpecDebuggerStack",
+	"commentStamp" : "StevenCostiou 3/7/2019 10:11",
+	"super" : "EyeDebuggerContextInspector",
 	"category" : "DebuggableASTDebugger",
 	"classinstvars" : [ ],
 	"pools" : [ ],
 	"classvars" : [ ],
 	"instvars" : [ ],
-	"name" : "DASTDebuggerStack",
+	"name" : "DASTEyeContextInspector",
 	"type" : "normal"
 }

@@ -1,5 +1,5 @@
 API
 debug: sourceCode
-	interpreter := DASTOverlayInterpreter new.
+	interpreter := DASTInterpreter new.
 	interpreter initializeWithProgram: (RBParser parseExpression: sourceCode).
 	

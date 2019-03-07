@@ -1,0 +1,1 @@
+I model a debug session for the DASTInterpreter debugger. I provide an APIfor debuggers to interact with the underlying debugging model.

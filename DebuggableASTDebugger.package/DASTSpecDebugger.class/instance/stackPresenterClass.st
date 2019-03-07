@@ -1,3 +1,3 @@
 accessing
 stackPresenterClass
-	^DASTDebuggerStack
+	^DASTSpecDebuggerStack
